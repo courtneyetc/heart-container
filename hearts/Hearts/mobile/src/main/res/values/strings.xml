@@ -2,7 +2,6 @@
 <resources>
 
     <string name="app_name">Hearts</string>
-    <string name="hello_world">Hello world!</string>
-    <string name="action_settings">Settings</string>
+    <string name="description">A Zelda-inspired watchface for Android Wear.</string>
 
 </resources>
